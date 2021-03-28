@@ -1,0 +1,83 @@
+/* Abel */
+@font-face{
+	font-family: Abel;
+	src:url('../vendor/fonts/Abel/Abel-Regular.ttf');
+}
+
+/* Algreya */
+@font-face{
+	font-family: Alegreya;
+	src: url('../vendor/fonts/Alegreya_Sans/AlegreyaSans-Regular.ttf');
+}
+
+/* Anton */
+@font-face{
+	font-family: Anton;
+	src:url('../vendor/fonts/Anton/Anton-Regular.ttf');
+}
+
+/* Cormorant */
+@font-face{
+	font-family: Cormorant;
+	src: url('../vendor/fonts/Cormorant_Upright/CormorantUpright-Regular.ttf');
+}
+
+/* Inconsolata */
+@font-face{
+	font-family: Inconsolata;
+	src: url('../vendor/fonts/Inconsolata/static/Inconsolata-Regular.ttf');
+}
+
+/* Josefin */
+@font-face{
+	font-family: Josefin;
+	src:url('../vendor/fonts/Josefin_Sans/JosefinSans-Regular.ttf');
+}
+
+/* Lexend */
+@font-face{
+	font-family:Lexend;
+	src:url('../vendor/fonts/Lexend_Deca/LexendDeca-Regular.ttf');
+}
+
+/* Literata */
+@font-face{
+	font-family: Literata;
+	src: url('../vendor/fonts/Literata/static/Literata-Regular.ttf');
+}
+
+/* Livvic */
+@font-face{
+	font-family:Livvic;
+	src:url('../vendor/fonts/Livvic/Livvic-Regular.ttf');
+}
+
+/* Overlock */
+@font-face{
+	font-family: Overlock;
+	src: url('../vendor/fonts/Overlock/Overlock-Regular.ttf');
+}
+
+/* Rancho */
+@font-face{
+	font-family: Rancho;
+	src: url('../vendor/fonts/Rancho/Rancho-Regular.ttf');
+}
+
+/* Roboto */
+@font-face{
+    font-family: Roboto;
+    src:url('../vendor/fonts/Roboto/Roboto-Regular.ttf');
+}
+
+/* Sriracha */
+@font-face{
+	font-family: Sriracha;
+	src: url('../vendor/fonts/Sriracha/Sriracha-Regular.ttf');
+}
+
+/* Ubuntu */
+@font-face{
+	font-family: Ubuntu;
+	src: url('../vendor/fonts/Ubuntu/Ubuntu-Regular.ttf');
+}
