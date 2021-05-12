@@ -1,1 +1,1 @@
-Blogger - Blogger is a single page blog website. It has 9 section. This site is developed with HTML, CSS, Bootstrap & with some plugins. Beside this is fully responsive form mobile, pad, laptop & all others device.
+Blogger - Blogger is a single page of blog website. It has 9 section. This site is developed with HTML, CSS, Bootstrap & with some 3rd party library. Beside this website is fully responsive in mobile, pad, laptop & all other devices.
